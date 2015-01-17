@@ -1,4 +1,4 @@
-
-provide sample code for  ³Ç¤h§BªºIT¾Ç²ß¤§¸ô C# IEnumerable? IEnumerator?
+ï»¿
+provide sample code for  å‚‘å£«ä¼¯çš„ITå­¸ç¿’ä¹‹è·¯ C# IEnumerable? IEnumerator?
 
 http://jasper-it.blogspot.tw/2015/01/c-ienumerable-ienumerator.html
