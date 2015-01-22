@@ -1,0 +1,11 @@
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\obj\Debug\Linq08-6-IQueryable.csprojResolveAssemblyReference.cache
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\bin\Debug\Linq08-6-IQueryable.exe.config
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\bin\Debug\Linq08-6-IQueryable.exe
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\bin\Debug\Linq08-6-IQueryable.pdb
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\bin\Debug\EntityFramework.dll
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\bin\Debug\EntityFramework.SqlServer.dll
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\bin\Debug\EntityFramework.xml
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\bin\Debug\EntityFramework.SqlServer.xml
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\obj\Debug\Linq08-6-IQueryable.exe
+C:\C# Test\13-ASP.NET MVC5 網站開發美學 (demo)\Lab\Ch03-LINQ\Linq08-6-IQueryable\obj\Debug\Linq08-6-IQueryable.pdb

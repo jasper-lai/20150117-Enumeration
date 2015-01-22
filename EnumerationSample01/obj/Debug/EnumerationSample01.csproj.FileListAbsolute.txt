@@ -4,3 +4,6 @@ C:\C# Test\31-Google Blogger\02-DemoCode\20150114-Enumeration\EnumerationSample0
 C:\C# Test\31-Google Blogger\02-DemoCode\20150114-Enumeration\EnumerationSample01\obj\Debug\EnumerationSample01.csprojResolveAssemblyReference.cache
 C:\C# Test\31-Google Blogger\02-DemoCode\20150114-Enumeration\EnumerationSample01\obj\Debug\EnumerationSample01.exe
 C:\C# Test\31-Google Blogger\02-DemoCode\20150114-Enumeration\EnumerationSample01\obj\Debug\EnumerationSample01.pdb
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\EnumerationSample01\bin\Debug\EnumerationSample01.exe.config
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\EnumerationSample01\obj\Debug\EnumerationSample01.exe
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\EnumerationSample01\obj\Debug\EnumerationSample01.pdb

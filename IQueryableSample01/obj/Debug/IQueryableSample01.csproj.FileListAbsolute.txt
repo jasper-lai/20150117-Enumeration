@@ -1,0 +1,12 @@
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\bin\Debug\IQueryableSample01.exe.config
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\bin\Debug\IQueryableSample01.exe
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\bin\Debug\IQueryableSample01.pdb
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\bin\Debug\EntityFramework.dll
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\bin\Debug\EntityFramework.SqlServer.dll
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\bin\Debug\EntityFramework.xml
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\bin\Debug\EntityFramework.SqlServer.xml
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\obj\Debug\IQueryableSample01.csprojResolveAssemblyReference.cache
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\obj\Debug\IQueryableSample01.exe
+C:\C# Test\31-Google Blogger\02-DemoCode\20150117-Enumeration\IQueryableSample01\obj\Debug\IQueryableSample01.pdb

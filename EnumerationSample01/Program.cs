@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EnumerationSample01
+namespace IQueryableSample01
 {
     class Program
     {

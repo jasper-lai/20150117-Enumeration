@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationSample01", "Enum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationSample02", "EnumerationSample02\EnumerationSample02.csproj", "{3520DC78-2981-4318-86F1-F3007BED9A41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQueryableSample01", "IQueryableSample01\IQueryableSample01.csproj", "{E485845C-719B-4248-BD1D-58824203E41F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3520DC78-2981-4318-86F1-F3007BED9A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3520DC78-2981-4318-86F1-F3007BED9A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3520DC78-2981-4318-86F1-F3007BED9A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E485845C-719B-4248-BD1D-58824203E41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E485845C-719B-4248-BD1D-58824203E41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E485845C-719B-4248-BD1D-58824203E41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E485845C-719B-4248-BD1D-58824203E41F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
