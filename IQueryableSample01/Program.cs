@@ -31,10 +31,25 @@ namespace Linq08_6_IQueryable
             }
         }
 
+        private static void TestVar()
+        {
+            using (NorthwindEntities ctx = new NorthwindEntities())
+            {
+                //如果是用 var 宣告, 則 emps 變數的型別會是 IQueryable
+                //                System.Data.Entity.DbSet<Linq08_6_IQueryable.Employee>
+                var emps = ctx.Employees;
+                int count = emps.Where(x => x.EmployeeID == 2).Count();
+
+                Console.WriteLine("Count={0}", count);
+            }
+        }
+
+
         static void Main(string[] args)
         {
             TestIEnumerable();
             TestIQueryable();
+            TestVar();
 
             Console.ReadLine();
         }
